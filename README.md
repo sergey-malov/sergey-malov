@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, меня зовут Сергей! 👨‍💻
 
-<!--
-**sergey-malov/sergey-malov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+Я начинающий разработчик, сейчас прохожу обучение на платформе **Stepik**. 
+Активно изучаю систему контроля версий Git и работу с GitHub.
 
-Here are some ideas to get you started:
+### 🛠 Инструменты и технологии
+![Git](https://shields.io) 
+![Bash](https://shields.io) 
+![VS Code](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Как со мной связаться:
+[saalevan@yandex.ru]
