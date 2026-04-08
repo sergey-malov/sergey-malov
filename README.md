@@ -1,27 +1,43 @@
-# Привет, меня зовут Сергей! 👨‍💻
+# Привет, меня зовут Сергей 👋
+### Junior QA Engineer | Manual & Automation Testing
 
-### Обо мне
-Я начинающий разработчик, сейчас прохожу обучение на платформе **Stepik**. 
-Активно изучаю систему контроля версий Git и работу с GitHub.
+[![Telegram](https://shields.io)](https://t.me)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-### 🛠 Инструменты и технологии
-![Git](https://shields.io)
-![Bash](https://shields.io)
-![VS Code](https://shields.io)
+Я начинающий специалист по тестированию. Успешно завершил курсы на **Stepik**, где научился находить баги там, где их никто не ждет. Постоянно развиваюсь и углубляю знания в автоматизации.
 
-### 📂 Testing Artefacts (Тестовые артефакты)
+---
 
-*   **[Git & Version Control](https://google.com)**
-    ![Git](https://shields.io) ![Terminal](https://shields.io)
-    *Отработка команд терминала, работа с ветками main/develop, слияние и решение конфликтов.*
+### 🛠 Стек технологий:
 
-*   **[Manual Testing Theory & Practice](https://google.com)**
-    ![TestRail](https://shields.io) ![Jira](https://shields.io)
-    *Создание тест-кейсов, чек-листов и баг-репортов. Оценка приоритетов и работа с тестовой документацией.*
 
-*   **[API & SQL Testing](https://postman.com)**
-    ![Postman](https://shields.io) ![MySQL](https://shields.io)
-    *Тестирование REST API запросов (GET, POST, PUT, DELETE) и работа с базами данных.*
+| Направление | Инструменты |
+| :--- | :--- |
+| **Testing** | ![Manual](https://shields.io) ![Functional](https://shields.io) ![Regression](https://shields.io) |
+| **Web & API** | ![Postman](https://shields.io) ![Swagger](https://shields.io) ![DevTools](https://shields.io) |
+| **Automation** | ![Python](https://shields.io) ![Pytest](https://shields.io) ![Selenium](https://shields.io) |
+| **Tools** | ![Jira](https://shields.io) ![Git](https://shields.io) ![SQL](https://shields.io) |
+
+---
+
+### 🚀 Мои учебные проекты (Stepik):
+
+- 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. Found & reported 20+ bugs.
+- 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (коллекции, тесты на JS).
+- 🐍 **[Auto-tests]**: Создание первого фреймворка на Pytest + Selenium.
+
+---
+
+### 📊 Статистика активности:
+
+<p align="left">
+<img src="https://vercel.app[ТВОЙ_ЛОГИН]&show_icons=true&theme=radical&hide_border=true" width="400" />
+<img src="https://vercel.app[ТВОЙ_ЛОГИН]&layout=compact&theme=radical&hide_border=true" width="300" />
+</p>
+
+---
+
+
 
 ### 📫 Как со мной связаться:
 📧 [saalevan@yandex.ru](mailto:saalevan@yandex.ru)
