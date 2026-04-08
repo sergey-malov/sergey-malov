@@ -25,7 +25,7 @@
 - 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. Found & reported 20+ bugs.
 - 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (коллекции, тесты на JS).
 - 🐍 **[Auto-tests]**: Создание первого фреймворка на Pytest + Selenium.
-- Создание веб-приложения (https://sergey-malov.github.io/avm-service.github.io/)
+- **[HTML, CSS]**: Создание веб-приложения (https://sergey-malov.github.io/avm-service.github.io/)
 
 ---
 
