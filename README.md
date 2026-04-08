@@ -23,8 +23,6 @@
     ![Postman](https://shields.io) ![MySQL](https://shields.io)
     *Тестирование REST API запросов (GET, POST, PUT, DELETE) и работа с базами данных.*
 
-
-
-
 ### 📫 Как со мной связаться:
-[saalevan@yandex.ru]
+📧 [saalevan@yandex.ru](mailto:saalevan@yandex.ru)
+
