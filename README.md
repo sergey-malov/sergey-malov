@@ -5,8 +5,8 @@
 Активно изучаю систему контроля версий Git и работу с GitHub.
 
 ### 🛠 Инструменты и технологии
-![Git](https://shields.io) 
-![Bash](https://shields.io) 
+![Git](https://shields.io)
+![Bash](https://shields.io)
 ![VS Code](https://shields.io)
 
 ### 📂 Testing Artefacts (Тестовые артефакты)
