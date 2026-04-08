@@ -1,4 +1,7 @@
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/66bbaed1-63fd-4115-a858-71eda21ca56f" /># 
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/66bbaed1-63fd-4115-a858-71eda21ca56f" />
+<img width="506" height="510" alt="Image" src="https://github.com/user-attachments/assets/4c0985b9-b28d-4a00-8605-f9a66df6b838" />
+
+# 
 
 Привет, меня зовут Сергей 👋
 
