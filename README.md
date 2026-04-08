@@ -7,10 +7,9 @@
 
 ### Junior QA Engineer | Manual & Automation Testing
 
-[![Telegram](https://shields.io)](https://t.me)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-Я специалист по тестированию. Нахожу баги там, где их никто не ждет. Постоянно развиваюсь и углубляю знания в автоматизации.
+Я специалист по тестированию. Более года я работал в проекте, в котором занимался ручным тестированием, с применением автотестов(в соотношении 70-30%) В данный момент в поиске более интересного проека.
+Постоянно развиваюсь и углубляю знания в автоматизации.
 
 ---
 
@@ -25,22 +24,15 @@
 | **Tools** | ![Jira](https://shields.io) ![Git](https://shields.io) ![SQL](https://shields.io) |
 
 ---
-
 ### 🚀 Мои учебные проекты (Stepik):
 
-- 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. Found & reported 20+ bugs.
+- 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. (https://drive.google.com/drive/folders/1YQ7wRhq82momQ3f6R6X7n55kdsArC6km?usp=sharing)
 - 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (коллекции, тесты на JS).
 - 🐍 **[Auto-tests]**: Создание первого фреймворка на Pytest + Selenium.
 - **[HTML, CSS]**: Создание веб-приложения (https://sergey-malov.github.io/avm-service.github.io/)
 
 ---
 
-### 📊 Статистика активности:
-
-<p align="left">
-<img src="https://vercel.app[ТВОЙ_ЛОГИН]&show_icons=true&theme=radical&hide_border=true" width="400" />
-<img src="https://vercel.app[ТВОЙ_ЛОГИН]&layout=compact&theme=radical&hide_border=true" width="300" />
-</p>
 
 ---
 
