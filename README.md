@@ -1,4 +1,6 @@
 # Привет, меня зовут Сергей 👋
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/66bbaed1-63fd-4115-a858-71eda21ca56f" />
 ### Junior QA Engineer | Manual & Automation Testing
 
 [![Telegram](https://shields.io)](https://t.me)
