@@ -8,8 +8,8 @@
 ### Junior QA Engineer | Manual & Automation Testing
 
 
-Я специалист по тестированию. Более года я работал в проекте, в котором занимался ручным тестированием, с применением автотестов(в соотношении 70-30%) В данный момент в поиске более интересного проека.
-Постоянно развиваюсь и углубляю знания в автоматизации.
+Я специалист по тестированию. Более года я работал в проекте, в котором занимался ручным тестированием, с применением автотестов(в соотношении 70-30%) В данный момент открыт к предложениям о сотрудничестве.
+
 
 ---
 
@@ -26,8 +26,8 @@
 ---
 ### 🚀 Мои учебные проекты (Stepik):
 
-- 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. (https://drive.google.com/drive/folders/1YQ7wRhq82momQ3f6R6X7n55kdsArC6km?usp=sharing)
-- 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (коллекции, тесты на JS).
+- 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. (https://drive.google.com/file/d/1oKGGHNFrl_EVg5h6pAl2TtSkemBI9MQn/view?usp=sharing)
+- 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (https://www.postman.com/saalevan-2318362/demoshopping/collection/53003106-7aa8585f-bd60-42fd-968f-b191b08f2b3c?action=share&source=copy-link&creator=53003106).
 - 🐍 **[Auto-tests]**: Создание первого фреймворка на Pytest + Selenium.
 - **[HTML, CSS]**: Создание веб-приложения (https://sergey-malov.github.io/avm-service.github.io/)
 
