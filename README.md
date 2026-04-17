@@ -1,14 +1,12 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/66bbaed1-63fd-4115-a858-71eda21ca56f" />
-<img width="506" height="510" alt="Image" src="https://github.com/user-attachments/assets/4c0985b9-b28d-4a00-8605-f9a66df6b838" />
+
 
 # 
 
 Привет, меня зовут Сергей 👋
 
-### Junior QA Engineer | Manual & Automation Testing
-
-
-Я специалист по тестированию. Более года я работал в проекте, в котором занимался ручным тестированием, с применением автотестов(в соотношении 70-30%) В данный момент открыт к предложениям о сотрудничестве.
+### 
+Я Fullstack-аналитик. По мимо аналитики я на хорошем уровне знаю QA. А так же, могу редаатировать (или вообще написать с "чистого листа") адаптивные и кросс-браузерные   html сайты. Например такие: https://sergey-malov.github.io/avm-service.github.io/index.html
 
 
 ---
@@ -24,7 +22,7 @@
 | **Tools** | ![Jira](https://shields.io) ![Git](https://shields.io) ![SQL](https://shields.io) |
 
 ---
-### 🚀 Мои учебные проекты (Stepik):
+### 🚀 Мои учебные проекты QA (Stepik):
 
 - 🧪 **[Web Testing Project]**: Написание чек-листов и тест-кейсов для интернет-магазина. (https://drive.google.com/file/d/1oKGGHNFrl_EVg5h6pAl2TtSkemBI9MQn/view?usp=sharing)
 - 📡 **[API Testing]**: Тестирование REST API сервисов через Postman (https://www.postman.com/saalevan-2318362/demoshopping/collection/53003106-7aa8585f-bd60-42fd-968f-b191b08f2b3c?action=share&source=copy-link&creator=53003106).
