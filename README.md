@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/66bbaed1-63fd-4115-a858-71eda21ca56f" />
+
 
 
 # 
@@ -6,7 +6,7 @@
 Привет, меня зовут Сергей 👋
 
 ### 
-Я Fullstack-аналитик. Но кроме аналитики я на хорошем уровне знаю QA. А так же, могу редактировать (или вообще написать с "чистого листа") адаптивные и кросс-браузерные   html сайты. Например такие: https://sergey-malov.github.io/avm-service.github.io/index.html
+Я на хорошем уровне знаю QA. А так же, могу редактировать (или вообще написать с "чистого листа") адаптивные и кросс-браузерные   html сайты. Например такие: https://sergey-malov.github.io/avm-service.github.io/index.html
 
 
 ---
